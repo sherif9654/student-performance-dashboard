@@ -1,0 +1,11 @@
+Student_ID,Math_Score,Science_Score,English_Score,Hours_Studied,Status
+1,85,90,78,10,Pass
+2,45,50,55,3,Fail
+3,70,65,80,7,Pass
+4,30,40,35,2,Fail
+5,95,92,88,12,Pass
+6,55,60,58,4,Pass
+7,40,35,42,2,Fail
+8,88,85,90,9,Pass
+9,62,68,65,5,Pass
+10,25,30,20,1,Fail
