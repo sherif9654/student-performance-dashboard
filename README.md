@@ -8,4 +8,4 @@ An interactive Web Dashboard built with Streamlit to analyze student exam perfor
 
 ## How to Run:
 1. Install requirements: pip install -r requirements.txt
-2. Launch the app: streamlit run app.py
+2. Launch the app: streamlit run app.py or visit https://student-performance-dashboard-akp5rswzsm3km6tlw573pf.streamlit.app/
